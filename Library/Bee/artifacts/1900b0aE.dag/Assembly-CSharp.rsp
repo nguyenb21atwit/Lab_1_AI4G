@@ -347,8 +347,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CubeController.cs"
 "Assets/Scripts/GameController.cs"
+"Assets/Scripts/NeutralControler.cs"
 "Assets/Scripts/NPCController.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/WallController.cs"
 -langversion:9.0
 
 /deterministic
