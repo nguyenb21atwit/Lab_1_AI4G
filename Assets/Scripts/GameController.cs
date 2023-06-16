@@ -6,7 +6,7 @@ public class GameController: MonoBehaviour
 
 {
     public static int score = 0;
-    public static int npcscore = 10;
+    public static int npcscore = 15;
 
     void OnGUI()
     {
